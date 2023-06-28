@@ -5,7 +5,7 @@
 ```
 ./main Functions are given for data generation, for calculating the results of the test set we constructed and for evaluating the metrics, and for obtaining the test files for the original test set.
 
-./notebooks  Files for model optimization, including feature selection, data enhancement, etc  are given here.
+./notebooks  Files for model optimization, including feature selection, data enhancement, etc and visualisation of results are given here.
 
 ./road_network  Documents used to derive road-network features.
 
